@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Proof-of-work hiring for engineering teams — post real challenges, review GitHub repos and Loom walkthroughs, and get scored shortlists instead of another resume pile.
+  Proof-of-work hiring for engineering teams. Post real challenges, review GitHub repos and Loom walkthroughs, and get scored shortlists instead of another resume pile.
 </p>
 
 <p align="center">
@@ -20,19 +20,19 @@
 
 ## How it works
 
-1. **Post a challenge** — Employers define real engineering problems from their stack: backend APIs, fullstack features, or DevOps pipelines.
-2. **Engineers submit proof** — Candidates ship a public GitHub repo and a Loom walkthrough. Comograph scores submissions within 72 hours.
-3. **Review ranked talent** — Browse leaderboards, reputation profiles, and five-dimension score breakdowns. Shortlist engineers who already proved they can deliver.
+1. **Post a challenge.** Employers define real engineering problems from their stack: backend APIs, fullstack features, or DevOps pipelines.
+2. **Engineers submit proof.** Candidates ship a public GitHub repo and a Loom walkthrough. Comograph scores submissions within 72 hours.
+3. **Review ranked talent.** Browse leaderboards, reputation profiles, and five-dimension score breakdowns. Shortlist engineers who already proved they can deliver.
 
 ## Repositories
 
 | Repository | Description | Dev port |
 | --- | --- | --- |
-| [comograph-backend](https://github.com/comograph/comograph-backend) | NestJS API — auth, challenges, submissions, scoring, reputation | 3000 |
-| [comograph-engineer-portal](https://github.com/comograph/comograph-engineer-portal) | Engineer app — challenges, submissions, profile | 5173 |
-| [comograph-employer-portal](https://github.com/comograph/comograph-employer-portal) | Employer app — post challenges, leaderboards, candidates | 5174 |
-| [comograph-admin-portal](https://github.com/comograph/comograph-admin-portal) | Internal ops — scoring queue, approvals | 5175 |
-| [comograph-landing](https://github.com/comograph/comograph-landing) | Public marketing site | — |
+| [comograph-backend](https://github.com/comograph/comograph-backend) | NestJS API: auth, challenges, submissions, scoring, reputation | 3000 |
+| [comograph-engineer-portal](https://github.com/comograph/comograph-engineer-portal) | Engineer app: challenges, submissions, profile | 5173 |
+| [comograph-employer-portal](https://github.com/comograph/comograph-employer-portal) | Employer app: post challenges, leaderboards, candidates | 5174 |
+| [comograph-admin-portal](https://github.com/comograph/comograph-admin-portal) | Internal ops: scoring queue, approvals | 5175 |
+| [comograph-landing](https://github.com/comograph/comograph-landing) | Public marketing site | N/A |
 
 ## Tech stack
 
@@ -79,5 +79,5 @@ Portal repos run alongside the API on ports 5173–5175. See each repo's README 
 ---
 
 <p align="center">
-  <em>Early-career engineers build real proof instead of relying on pedigree alone — and employers hire globally with evidence, not geographic guesswork.</em>
+  <em>Early-career engineers build real proof instead of relying on pedigree alone, and employers hire globally with evidence, not geographic guesswork.</em>
 </p>
